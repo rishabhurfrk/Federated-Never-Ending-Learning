@@ -23,7 +23,7 @@ To run this project, you will need to have Python and Jupyter Notebook installed
 
 2. Navigate to the project directory:
    ```bash
-   cd yourrepository
+   cd your repository
 
 3. Install the required packages:
    ```bash
